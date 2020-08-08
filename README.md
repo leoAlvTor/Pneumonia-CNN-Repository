@@ -1,16 +1,23 @@
 # Pneumonia-CNN-Repository
 
-## Authors:
-- Leonardo Alvarado
-- Pedro Illaisaca
+## Archivos:
 
-## Files:
+- Pneumonia-Classification-with-CNN.ipynb
 
-- Pneumonia-Classification-with-CNN.ipynb Jupyter notebook with Python code for CNN development.
-- SVM Pneumonia.ipynb Jupyter notebook for SVM development.
-- modelo(1).json CNN model in JSON format, ready for being loaded.
-- pesos(1).h5 CNN weights with the last accuracy values ( ~ 0.95%).
+  Cuaderno de Jupyter en la cual se encuentra especificado todo el proceso y funcionamiento del modelo propuesto junto con    la clase Data Generator para el procesamiento de imagenes. 
+  
+- SVM Pneumonia.ipynb 
+
+  Cuaderno de Jupyter en el cual se utiliza una Maquina de Soporte Vectorial SVM para la classificacion de imagenes, esto se hizo unicamente para comparar los resultados con la CNN.
+  
+- modelo(1).json 
+
+  Modelo en formato JSON que contiene el modelo propuesto de la CNN.
+  
+- pesos(1).h5 
+
+  Pesos de la CNN que fue previamente entrenada.
 
 ## Date:
 
-August 3, 2020
+Agosto 7, 2020.
