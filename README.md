@@ -18,6 +18,6 @@
 
   Pesos de la CNN que fue previamente entrenada.
 
-## Date:
+## Fecha:
 
 Agosto 7, 2020.
